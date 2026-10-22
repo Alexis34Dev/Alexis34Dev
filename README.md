@@ -1,4 +1,4 @@
-## Hola, soy Alexis Eduardo Salas Alvarado 👋
+## Hola, soy Alexis Salas  👋
 
 <!--
 **Alexis34Dev/Alexis34Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
